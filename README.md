@@ -4,6 +4,8 @@ This project explores the Kaggle Housing Prices dataset to understand numeric fe
 
 ## Files
 
+app:https://manosree30-logisticregression-app-h5tihz.streamlit.app/
+
 app.py : Streamlit app for interactive house price prediction.
 
 housing.csv : Dataset used in the app.
